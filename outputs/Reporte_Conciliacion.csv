@@ -1,0 +1,5 @@
+﻿Factura;Total_PDF;Estado_Conciliacion;Ruta_Archivo
+No encontrada;No encontrado;Rechazada: Factura no existe en DB;
+FAC-1004;500.00;Rechazada: PDF 500.0 vs DB 9999.99;E:\Programacion\RPA_Conciliacion_Financiera\inputs\Factura FAC-1004 (Fallo Matemático).pdf
+FAC-1003;45000.00;Conciliada Exitosamente;E:\Programacion\RPA_Conciliacion_Financiera\inputs\Factura FAC-1003 (Éxito).pdf
+FAC-9999;100.00;Rechazada: Factura no existe en DB;E:\Programacion\RPA_Conciliacion_Financiera\inputs\Factura FAC-9999 (No Encontrada).pdf
